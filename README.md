@@ -4,21 +4,13 @@
 
 ###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheus-xavier-a14b0732a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/maaathh___/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaathh___/)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/662674845716185118)
 
 ###
 
-<h2 align="center">Hello there 👋<br>I'm Matheus Xavier from Brazil</h2>
+<h2 align="left">Hello there 👋</h2>
 
 ###
 
@@ -26,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭  I'm studying computer science.<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Matheus Xavier from Brazil<br><br>- 🔭  I'm studying computer science<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
 
 ###
 
@@ -39,5 +31,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+### 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-de-Freitas-Xavier&show_icons=true&theme=transparent&rank_icon=github)
 
 ###
