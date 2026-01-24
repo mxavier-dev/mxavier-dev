@@ -4,33 +4,29 @@
 
 ###
 
+<h2 align="left">Hello 👋 I'm Matheus Xavier</h2>
+
+###
+
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaathh___/)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/662674845716185118)
 
 ###
 
-<h2 align="left">Hello there 👋</h2>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm Matheus Xavier from Brazil<br><br>- 🔭  I'm studying computer science<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
-
-###
+<p align="left">- 🔭  I'm studying computer science<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+</div><br>
 
 
 <h3 align="left">🔥   My Stats :</h3>
