@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Matheus Xavier from Brazil<br><br>- 🔭  I'm studying computer science.<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
+<p align="left">I'm Matheus Xavier from Brazil<br><br>- 🔭  I'm studying computer science<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
 
 ###
 
