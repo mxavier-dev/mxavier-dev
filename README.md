@@ -16,11 +16,9 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">- 🔭  I'm studying computer science<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p><br>
+<p align="left">- 🔭  I'm studying computer science, second semester<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
