@@ -21,9 +21,13 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div><br>
 
 
@@ -31,6 +35,4 @@
 
 ### 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-de-Freitas-Xavier&show_icons=true&theme=transparent&rank_icon=github)
-
-###
+[![GitHub Streak](https://streak-stats.demolab.com?user=mxavier-dev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
