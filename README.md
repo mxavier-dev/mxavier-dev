@@ -1,38 +1,50 @@
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc5NWZsaG81amdnM3FoOW1tajhreWtyd3h4cGJvb2U5ZzVqd214ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Matheus Xavier</h1>
 
-###
+<p align="center">
+Aspiring <b>Data Engineer</b> from Brazil 🇧🇷 <br>
+Passionate about technology, programming and continuous learning.
+</p>
 
-<h2 align="left">Hello 👋 I'm Matheus Xavier</h2>
+___
 
-###
+### 👨‍💻 About Me
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/maaathh___/)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/662674845716185118)
+* 🎓 Computer Science student
+* 🐍 Currently learning **Python and SQL**
+* 📊 Interested in **Data Engineering and data systems**
+* 🐧 Linux user
+* 🎮 Gamer in my free time
 
-###
+### 🛠 Tech Stack
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+</p>
 
-<p align="left">- 🔭  I'm studying computer science, second semester<br>- 📚 I'm currently learning Python and Sql<br>- ⚡ In my free time I play games</p>
+___
 
-<h3 align="left">🛠 Language and tools</h3>
+### 📌 Featured Project
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div><br>
+🔹 **Vending Machine**
 
+About<br>
+A modern vending machine simulator built with Python and CustomTkinter. Features include real-time stock control, cart management, and detailed change calculation.
 
-<h3 align="left">🔥   My Stats :</h3>
+Repository:
+https://github.com/mxavier-dev/vending-machine
 
-### 
+___
+
+### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mxavier-dev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 🌎 Connect With Me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://www.instagram.com/maaathh___/)
