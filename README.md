@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Xavier</h1>
 
 <p align="center">
-Aspiring <b>Data Engineer</b> from Brazil 🇧🇷 <br>
-Passionate about technology, programming and continuous learning.
+Aspiring Data Engineer from Brazil 🇧🇷 <br>
+Focused on building data pipelines, working with APIs, and structuring data systems.
 </p>
 
 ___
@@ -10,10 +10,9 @@ ___
 ### 👨‍💻 About Me
 
 * 🎓 Computer Science student
-* 🐍 Currently learning **Python and SQL**
-* 📊 Interested in **Data Engineering and data systems**
+* 🐍 Building projects with **Python, SQL, and data pipelines**
+* 📊 Focused on **Data Engineering and data systems**
 * 🐧 Linux user
-* 🎮 Gamer in my free time
 
 ### 🛠 Tech Stack
 
@@ -41,13 +40,18 @@ ___
 
 ### 📌 Featured Project
 
-🔹 **ETL Countries Pipeline**
+### 🔹 ETL Countries Pipeline
 
-**About**<br>
-Modular ETL pipeline in Python using REST API, data transformation, and MySQL integration with logging and structured architecture.
+End-to-end ETL pipeline that extracts data from a REST API, transforms it, and loads it into a MySQL database.
 
-Repository:
-https://github.com/mxavier-dev/etl-countries-pipeline
+**Key points:**
+- Modular architecture (extract, transform, load)
+- Data processing with Pandas
+- Integration with external API
+- Structured logging system
+- Database schema with constraints and indexing
+
+🔗 https://github.com/mxavier-dev/etl-countries-pipeline
 
 ___
 
