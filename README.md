@@ -41,13 +41,13 @@ ___
 
 ### 📌 Featured Project
 
-🔹 **Vending Machine**
+🔹 **ETL Countries Pipeline**
 
-About<br>
-A modern vending machine simulator built with Python and CustomTkinter. Features include real-time stock control, cart management, and detailed change calculation.
+**About**<br>
+Modular ETL pipeline in Python using REST API, data transformation, and MySQL integration with logging and structured architecture.
 
 Repository:
-https://github.com/mxavier-dev/vending-machine
+https://github.com/mxavier-dev/etl-countries-pipeline
 
 ___
 
