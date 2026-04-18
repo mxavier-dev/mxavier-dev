@@ -33,18 +33,18 @@ ___
 
 ### 📌 Featured Project
 
-### 🔹 ETL Countries Pipeline
+### 🔹 Pokeapi ETL Pipeline
 
-End-to-end ETL pipeline that extracts data from a REST API, transforms it, and loads it into a MySQL database.
+Production-style ETL pipeline using Python, Pandas, and MySQL to process real API data with batch inserts, normalization, and relational modeling.
 
 **Key points:**
-- Modular architecture (extract, transform, load)
-- Data processing with Pandas
-- Integration with external API
-- Structured logging system
-- Database schema with constraints and indexing
 
-🔗 https://github.com/mxavier-dev/etl-countries-pipeline
+- Consuming external APIs (real-world data)
+- Transforming semi-structured JSON into structured datasets
+- Relational data modeling
+- Efficient batch data loading
+
+🔗 https://github.com/mxavier-dev/pokeapi-etl-pipeline
 
 ___
 
