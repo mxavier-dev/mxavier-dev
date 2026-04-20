@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Xavier</h1>
 
 <p align="center">
-Aspiring Data Engineer from Brazil 🇧🇷 <br>
-Focused on building data pipelines, working with APIs, and structuring data systems.
+Data Engineering | Python, SQL, ETL pipelines<br>
+Building data pipelines from real-world APIs and structuring relational data systems
 </p>
 
 ___
@@ -11,7 +11,7 @@ ___
 
 * 🎓 Computer Science student
 * 🐍 Building projects with **Python, SQL, and data pipelines**
-* 📊 Focused on **Data Engineering and data systems**
+* 📊 Focused on ETL pipelines, data modeling, and API data ingestion
 * 🐧 Linux user
 
 ### 🛠 Tech Stack
@@ -33,15 +33,14 @@ ___
 
 ### 🔹 Pokeapi ETL Pipeline
 
-Production-style ETL pipeline using Python, Pandas, and MySQL to process real API data with batch inserts, normalization, and relational modeling.
+ETL pipeline that extracts data from a public API, transforms semi-structured JSON into normalized relational tables, and loads it into MySQL using batch operations.
 
-**Key points:**
-
-- Consuming external APIs (real-world data)
-- Transforming semi-structured JSON into structured datasets
-- Relational data modeling
-- Efficient batch data loading
-
+**Highlights:**
+- Batch inserts with executemany (performance-oriented)
+- Data normalization (1:N and N:N relationships)
+- Transaction handling (commit/rollback)
+- Modular pipeline structure (extract → transform → load)
+  
 🔗 https://github.com/mxavier-dev/pokeapi-etl-pipeline
 
 ___
