@@ -25,7 +25,11 @@ ___
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="13" />
-</div>
+</div><br>
+
+- Python (data processing, ETL logic)
+- Pandas (data transformation)
+- MySQL (relational modeling, batch inserts)
 
 ___
 
@@ -54,4 +58,3 @@ ___
 ### 🌎 Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://www.instagram.com/maaathh___/)
