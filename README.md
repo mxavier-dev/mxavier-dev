@@ -27,10 +27,6 @@ ___
   <img width="13" />
 </div><br>
 
-- Python (data processing, ETL logic)
-- Pandas (data transformation)
-- MySQL (relational modeling, batch inserts)
-
 ___
 
 ### 📌 Featured Project
